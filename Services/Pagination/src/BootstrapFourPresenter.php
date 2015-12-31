@@ -1,6 +1,6 @@
 <?php 
 
-namespace App\Services\Pagination;
+namespace CurtSheller\Services\Pagination;
 
 use Illuminate\Pagination\BootstrapThreePresenter;
 
