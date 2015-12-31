@@ -9,3 +9,6 @@ The render() method accepts an Illuminate\Contracts\Pagination\Presenter instanc
 $users = App\User::paginate(15);`
 {!! with(new \App\Services\Pagination\BootstrapFourPresenter($users))->render() !!}
 ```
+#### License
+
+This is free software distributed under the terms of the MIT license
