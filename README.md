@@ -1,4 +1,4 @@
-#Laravel 5.1< Bootstrap 4 Presenter
+#Laravel 5.1> Bootstrap 4 Presenter
 
 Based on an article at: http://laravelista.com/laravel-custom-pagination-presenter/ and notes from around the web.
 
