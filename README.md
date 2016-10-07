@@ -1,5 +1,7 @@
 #Laravel 5.1> Bootstrap 4 Presenter
 
+NOTE: THIS IS NOT NEEDED FOR lLaravel 5.3>
+
 Based on an article at: http://laravelista.com/laravel-custom-pagination-presenter/ and notes from around the web.
 
 The render() method accepts an Illuminate\Contracts\Pagination\Presenter instance. You can create a custom class that implements that contract and pass it to the render() method.
