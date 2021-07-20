@@ -1,6 +1,6 @@
 #Laravel 5.1> Bootstrap 4 Presenter
 
-NOTE: THIS IS NOT NEEDED FOR Laravel 5.3>
+**NOTE:** THIS IS NOT NEEDED FOR Laravel 5.3>
 
 Based on an article at: http://laravelista.com/laravel-custom-pagination-presenter/ and notes from around the web.
 
